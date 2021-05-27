@@ -571,3 +571,9 @@
   options:
     twitter_user: "neural_machine"
     ignore_retweets: true
+
+- name: "ru-tatireti"
+  url: "https://tatireti.ru/?feed=rss2"
+  processor: "wordpress"
+  normalizer: "wordpress"
+  refresh_interval: 600
