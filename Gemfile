@@ -28,7 +28,7 @@ group :development, :test do
 end
 
 gem 'active_model_serializers', '~> 0.10.9'
-gem 'addressable', '~> 2.5', '>= 2.5.2'
+gem 'addressable', '~> 2.8'
 gem 'amazing_print'
 gem 'bootsnap', '>= 1.4.2', require: false
 gem 'callee', '~> 0.3'
